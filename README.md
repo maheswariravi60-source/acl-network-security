@@ -28,3 +28,20 @@ Designed and implemented Access Control Lists (ACLs) in Cisco Packet Tracer to r
 ## Outcome
 
 Successfully implemented ACL-based traffic filtering and validated secure communication.
+
+## Screenshots
+
+### Network Topology
+![Topology](topology.png)
+
+### ACL Configuration
+![ACL](acl-config.png)
+
+### Running Configuration
+![Running Config](acl-running-config.png)
+
+### Allowed Traffic Test
+![Allowed Ping](allowed-ping.png)
+
+### Blocked Traffic Test
+![Blocked Ping](blocked-ping.png)
